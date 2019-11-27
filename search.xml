@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>myFirstblog</title>
+      <link href="/2019/11/27/myfirstblog/"/>
+      <url>/2019/11/27/myfirstblog/</url>
+      
+        <content type="html"><![CDATA[<p>title: myFirstblog</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2019/11/26/hello-world/"/>
       <url>/2019/11/26/hello-world/</url>
